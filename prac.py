@@ -20,6 +20,6 @@ strob="chakri"
 print(strob[:])
 # syntax-5)(begin index:end index:step)
 # cahkri
-#strob="chakri"
+strob="chakri"
 print(strob[:])
 
