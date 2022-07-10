@@ -31,5 +31,4 @@ s="0123456789"
 # print(s[0:5:-1])
 # print(s[5:0:-1])
 # print(s[0:9:-2])
-#first 
-#second
+
