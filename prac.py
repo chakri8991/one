@@ -22,14 +22,6 @@ print(strob[:])
 # cahkri
 strob="chakri"
 print(strob[:])
-s="0123456789"
-# print(s[0:6:2])
-# print(s[::2])
-# print(s[-6:-1:2])
-# print(s[-6::2])
-# print(s[-6:-1:2])
-# print(s[0:5:-1])
-# print(s[5:0:-1])
-# print(s[0:9:-2])
+
 
 
